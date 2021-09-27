@@ -1,0 +1,36 @@
+h1 {color:dodgerblue;
+    background:black}
+h2 {color:rgb(59, 59, 59)}
+
+
+.header {
+   background:rgb(255, 255, 255);
+   display: flex ;
+   justify-content: space-evenly
+}
+
+.awd{
+    background:seashell;
+    display: flex;
+    justify-content:flex-start
+}
+
+.projects{
+    background-color:red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.site-description{
+    background-color:rebeccapurple;
+    display: flex;
+    justify-content:flex-start;
+}
