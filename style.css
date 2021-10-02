@@ -16,6 +16,9 @@ h1 {
     display: flex;
     flex-direction:column;
     justify-content:first baseline;
+    font-family:cursive;
+    color: #FFFFFF;
+    font-size: 22px;
 }
 
 .grid{
@@ -31,4 +34,8 @@ h1 {
 
 p,h2{
     text-align: center;
+}
+
+body{
+    background-color:#808080;
 }
